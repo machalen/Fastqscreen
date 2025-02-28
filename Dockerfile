@@ -1,6 +1,6 @@
 ####################################################
 #RNA-seq Tools
-#Dockerfile to build a container with bowtie2-2.3.2
+#Dockerfile to build a container with bowtie2-2.5.4
 #Ubuntu Focal
 ####################################################
 #Build the image based on Ubuntu
