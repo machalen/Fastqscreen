@@ -1,7 +1,10 @@
 ####################################################
 #RNA-seq Tools
-#Dockerfile to build a container with bowtie2-2.5.4
-#Ubuntu Focal
+#Dockerfile to build a container with:
+#Ubuntu plucky
+#bowtie2-2.5.4
+#samtools v1.5
+#FastQ-Screen v0.16.0
 ####################################################
 #Build the image based on Ubuntu
 FROM ubuntu:plucky
