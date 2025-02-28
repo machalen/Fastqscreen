@@ -1,4 +1,4 @@
-# Bowtie2
+# FastQ-Screen
 Dockerfile to use FastQ-Screen
 
 - Ubuntu plucky
